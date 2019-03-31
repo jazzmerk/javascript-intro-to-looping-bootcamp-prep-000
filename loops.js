@@ -21,6 +21,7 @@ function whileLoop (n){
 function doWhileLoop (n){
   while (n>0){
   console.log (n);
+  n--;
   }
   return "done";
 }

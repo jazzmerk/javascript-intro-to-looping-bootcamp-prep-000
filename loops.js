@@ -17,3 +17,8 @@ for (let i=0;i<25;i++){
 function whileLoop (n){
   
 }
+
+function doWhileLoop (n){
+  
+}
+
